@@ -17,6 +17,8 @@ public class Demo {
 		System.out.println(a-b);
 		
 		System.out.println(a*b);
+		
+		System.out.println("Hi hello peter welcome to home");
 	
 
 	}
