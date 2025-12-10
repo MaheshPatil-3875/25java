@@ -15,6 +15,8 @@ public class Demo {
 		
 		System.out.println("Added another child branch");
 		System.out.println(a-b);
+		
+		System.out.println(a*b);
 	
 
 	}
